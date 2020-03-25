@@ -1,0 +1,11 @@
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\bin\Debug\netcoreapp3.1\Contrato.exe
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\bin\Debug\netcoreapp3.1\Contrato.deps.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\bin\Debug\netcoreapp3.1\Contrato.runtimeconfig.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\bin\Debug\netcoreapp3.1\Contrato.runtimeconfig.dev.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\bin\Debug\netcoreapp3.1\Contrato.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\bin\Debug\netcoreapp3.1\Contrato.pdb
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\obj\Debug\netcoreapp3.1\Contrato.csprojAssemblyReference.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\obj\Debug\netcoreapp3.1\Contrato.AssemblyInfoInputs.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\obj\Debug\netcoreapp3.1\Contrato.AssemblyInfo.cs
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\obj\Debug\netcoreapp3.1\Contrato.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Contrato\Contrato\obj\Debug\netcoreapp3.1\Contrato.pdb
